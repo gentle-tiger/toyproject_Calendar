@@ -1,0 +1,37 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+    /* text-align: center; */
+}
+h1{
+    background-color: #0f8569;
+    text-align: center;
+    overflow: auto;
+    font-size: 3rem;
+    margin: 0;
+    bottom: 100px;
+}
+article{
+    border: 2px solid black;
+}
+nav{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+ul{
+    /* justify-content: center; */
+    text-align: center;
+    /* border: 1px solid red; */
+}
+li{
+    /* position: relative; */
+    display:inline-block;
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 1.7rem;
+    /* width: 15px; */
+    margin: 0;
+}
